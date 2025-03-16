@@ -5,7 +5,7 @@ TRAIN_DIR="train"
 TEST_DIR="test"
 TXT_FILES_DIR="txt_files"
 OUTPUT_DIR="system_outputs"
-TRAIN_FILE="train_pairs.json"
+TRAIN_FILE="full_qa_pairs.json"
 QUESTIONS_FILE="questions_test.txt"  
 
 echo "Examining necessary directories and files"
