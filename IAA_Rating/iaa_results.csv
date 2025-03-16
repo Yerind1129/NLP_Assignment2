@@ -1,0 +1,6 @@
+Category,Exact Agreement (%),Weighted Kappa,Within-1 Agreement (%),Agreement Level
+correctness,60.71,0.5767,92.86,Moderate
+completeness,50.0,0.4556,100.0,Moderate
+relevance,78.57,0.5739,96.43,Moderate
+clarity,60.71,0.4518,92.86,Moderate
+hallucination,71.43,0.7078,92.86,Substantial
