@@ -6,7 +6,7 @@ TEST_DIR="test"
 TXT_FILES_DIR="txt_files"
 OUTPUT_DIR="system_outputs"
 TRAIN_FILE="full_qa_pairs.json"
-QUESTIONS_FILE="questions_test.txt"  
+QUESTIONS_FILE="questions.txt"  
 
 echo "Examining necessary directories and files"
 if [ ! -d "$TRAIN_DIR" ]; then
